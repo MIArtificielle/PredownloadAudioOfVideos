@@ -1,5 +1,4 @@
 import yt_dlp
-import json
 
 # Lire les URL depuis le fichier texte
 video_urls = []
